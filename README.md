@@ -1,4 +1,4 @@
-# vuetify_app
+# samTodo(Vuetify)
 
 ## Project setup
 ```
