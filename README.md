@@ -26,14 +26,14 @@ npm run build
 
 ### Screenshots
 
-<img src="public/desktop.png" style="width:600px">
-<img src="public/desktop-2.png" style="width:600px">
+<img src="public/desktop.png" style="width:700px">
+<img src="public/desktop-2.png" style="width:700px">
 <img src="public/mobile.png" style="width:300px" >
 <img src="public/mobile-1.png" style="width:300px" >
-<img src="public/project-table-desktop.png" style="width:600px" >
-<img src="public/peoject-table-mobile.png" style="width:300px" >
+<img src="public/project-table-desktop.png" style="width:700px" >
+<img src="public/project-table-mobile.png" style="width:300px" >
 <img src="public/popup-mobile.png" style="width:300px" >
-<img src="public/popup-desktop.png" style="width:600px" >
+<img src="public/popup-desktop.png" style="width:700px" >
 
 
 
