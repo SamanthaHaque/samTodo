@@ -14,6 +14,13 @@ npm run serve
 ```
 npm run build
 ```
+
+##Technologies
+<hr>
+<ul>
+<li>Vue Js</li>
+</ul>
+
 ![](public/avatar-1.jpg)
 
 ### Customize configuration
