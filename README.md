@@ -14,6 +14,7 @@ npm run serve
 ```
 npm run build
 ```
+![alt text](https://github.com/SamanthaHaque/samTodo/blob/master/avater-1.jpg?raw=true)
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
