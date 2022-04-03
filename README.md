@@ -26,7 +26,14 @@ npm run build
 
 ### Screenshots
 
-![]<img src="public/desktop.png" >
+<img src="public/desktop.png" >
+<img src="public/desktop-2.png" >
+<img src="public/mobile.png" >
+<img src="public/mobile-1.png" >
+<img src="public/project-table-desktop.png" >
+<img src="public/peoject-table-mobile.png" >
+<img src="public/popup-mobile.png" >
+<img src="public/popup-desktop.png" >
 
 
 
