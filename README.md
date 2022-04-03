@@ -26,11 +26,11 @@ npm run build
 
 ### Screenshots
 
-<img src="public/desktop.png" >
+![]<img src="public/desktop.png" >
 
 
 
-![](public/avatar-1.jpg)
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
