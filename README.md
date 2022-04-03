@@ -25,16 +25,16 @@ npm run build
 ## Tests
 
 ### Screenshots
-<u>Dashboard</u> <br>
+<u>Dashboard</u> <br><br>
 <img src="public/desktop.png" style="width:700px">
-<img src="public/desktop-2.png" style="width:700px"><br>
-<u>Data Table</u><br>
+<img src="public/desktop-2.png" style="width:700px"><br><br>
+<u>Data Table</u><br><br>
 <img src="public/project-table-desktop.png" style="width:700px" >
-<img src="public/project-table-mobile.png" style="width:300px" ><br>
-<u>Pop Up</u><br>
+<img src="public/project-table-mobile.png" style="width:300px" ><br><br>
+<u>Pop Up</u><br><br>
 <img src="public/popup-mobile.png" style="width:300px" >
-<img src="public/popup-desktop.png" style="width:700px" ><br>
-<u>Dashboard Mobile </u><br>
+<img src="public/popup-desktop.png" style="width:700px" ><br><br>
+<u>Dashboard Mobile </u><br><br>
 <img src="public/mobile.png" style="width:300px" >
 <img src="public/mobile-1.png" style="width:300px" >
 
