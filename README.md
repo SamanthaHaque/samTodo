@@ -15,11 +15,20 @@ npm run serve
 npm run build
 ```
 
-##Technologies
+## Technologies
 <hr>
 <ul>
 <li>Vue Js</li>
+<li>Vuetify </li>
 </ul>
+
+## Tests
+
+### Screenshots
+
+<img src="public/desktop.png" >
+
+
 
 ![](public/avatar-1.jpg)
 
